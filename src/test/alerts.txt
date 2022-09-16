@@ -1,1 +1,8 @@
+java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue()" because the return value of "org.apache.poi.xssf.usermodel.XSSFRow.getCell(int)" is null
+Sikertelen beküldés! Hibaüzenet: Hibás dátum formátum!
+Sikertelen beküldés! Hibaüzenet: Még gyermek!
+java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
 Sikertelen beküldés! Hibaüzenet: Túl öreg a munkavégzéshez!
+Sikertelen beküldés! Hibaüzenet: Hiányzó keresztnév!
+Sikertelen beküldés! Hibaüzenet: Túl fiatal a munkavégzéshez!
+Sikertelen beküldés! Hibaüzenet: Hibás dátum, a jövőben született!
